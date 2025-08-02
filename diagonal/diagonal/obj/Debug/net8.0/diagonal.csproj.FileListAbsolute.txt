@@ -1,0 +1,14 @@
+C:\Users\willi\OneDrive\Área de Trabalho\c#\diagonal\diagonal\bin\Debug\net8.0\diagonal.exe
+C:\Users\willi\OneDrive\Área de Trabalho\c#\diagonal\diagonal\bin\Debug\net8.0\diagonal.deps.json
+C:\Users\willi\OneDrive\Área de Trabalho\c#\diagonal\diagonal\bin\Debug\net8.0\diagonal.runtimeconfig.json
+C:\Users\willi\OneDrive\Área de Trabalho\c#\diagonal\diagonal\bin\Debug\net8.0\diagonal.dll
+C:\Users\willi\OneDrive\Área de Trabalho\c#\diagonal\diagonal\bin\Debug\net8.0\diagonal.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\c#\diagonal\diagonal\obj\Debug\net8.0\diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Área de Trabalho\c#\diagonal\diagonal\obj\Debug\net8.0\diagonal.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Área de Trabalho\c#\diagonal\diagonal\obj\Debug\net8.0\diagonal.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Área de Trabalho\c#\diagonal\diagonal\obj\Debug\net8.0\diagonal.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Área de Trabalho\c#\diagonal\diagonal\obj\Debug\net8.0\diagonal.dll
+C:\Users\willi\OneDrive\Área de Trabalho\c#\diagonal\diagonal\obj\Debug\net8.0\refint\diagonal.dll
+C:\Users\willi\OneDrive\Área de Trabalho\c#\diagonal\diagonal\obj\Debug\net8.0\diagonal.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\c#\diagonal\diagonal\obj\Debug\net8.0\diagonal.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Área de Trabalho\c#\diagonal\diagonal\obj\Debug\net8.0\ref\diagonal.dll

@@ -1,0 +1,14 @@
+C:\Users\willi\OneDrive\Área de Trabalho\c#\idades\idades\bin\Debug\net8.0\idades.exe
+C:\Users\willi\OneDrive\Área de Trabalho\c#\idades\idades\bin\Debug\net8.0\idades.deps.json
+C:\Users\willi\OneDrive\Área de Trabalho\c#\idades\idades\bin\Debug\net8.0\idades.runtimeconfig.json
+C:\Users\willi\OneDrive\Área de Trabalho\c#\idades\idades\bin\Debug\net8.0\idades.dll
+C:\Users\willi\OneDrive\Área de Trabalho\c#\idades\idades\bin\Debug\net8.0\idades.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\c#\idades\idades\obj\Debug\net8.0\idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Área de Trabalho\c#\idades\idades\obj\Debug\net8.0\idades.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Área de Trabalho\c#\idades\idades\obj\Debug\net8.0\idades.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Área de Trabalho\c#\idades\idades\obj\Debug\net8.0\idades.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Área de Trabalho\c#\idades\idades\obj\Debug\net8.0\idades.dll
+C:\Users\willi\OneDrive\Área de Trabalho\c#\idades\idades\obj\Debug\net8.0\refint\idades.dll
+C:\Users\willi\OneDrive\Área de Trabalho\c#\idades\idades\obj\Debug\net8.0\idades.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\c#\idades\idades\obj\Debug\net8.0\idades.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Área de Trabalho\c#\idades\idades\obj\Debug\net8.0\ref\idades.dll

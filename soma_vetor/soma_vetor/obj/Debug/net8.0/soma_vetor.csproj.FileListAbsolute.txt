@@ -1,0 +1,14 @@
+C:\Users\willi\OneDrive\Área de Trabalho\c#\soma_vetor\soma_vetor\bin\Debug\net8.0\soma_vetor.exe
+C:\Users\willi\OneDrive\Área de Trabalho\c#\soma_vetor\soma_vetor\bin\Debug\net8.0\soma_vetor.deps.json
+C:\Users\willi\OneDrive\Área de Trabalho\c#\soma_vetor\soma_vetor\bin\Debug\net8.0\soma_vetor.runtimeconfig.json
+C:\Users\willi\OneDrive\Área de Trabalho\c#\soma_vetor\soma_vetor\bin\Debug\net8.0\soma_vetor.dll
+C:\Users\willi\OneDrive\Área de Trabalho\c#\soma_vetor\soma_vetor\bin\Debug\net8.0\soma_vetor.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\c#\soma_vetor\soma_vetor\obj\Debug\net8.0\soma_vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Área de Trabalho\c#\soma_vetor\soma_vetor\obj\Debug\net8.0\soma_vetor.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Área de Trabalho\c#\soma_vetor\soma_vetor\obj\Debug\net8.0\soma_vetor.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Área de Trabalho\c#\soma_vetor\soma_vetor\obj\Debug\net8.0\soma_vetor.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Área de Trabalho\c#\soma_vetor\soma_vetor\obj\Debug\net8.0\soma_vetor.dll
+C:\Users\willi\OneDrive\Área de Trabalho\c#\soma_vetor\soma_vetor\obj\Debug\net8.0\refint\soma_vetor.dll
+C:\Users\willi\OneDrive\Área de Trabalho\c#\soma_vetor\soma_vetor\obj\Debug\net8.0\soma_vetor.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\c#\soma_vetor\soma_vetor\obj\Debug\net8.0\soma_vetor.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Área de Trabalho\c#\soma_vetor\soma_vetor\obj\Debug\net8.0\ref\soma_vetor.dll

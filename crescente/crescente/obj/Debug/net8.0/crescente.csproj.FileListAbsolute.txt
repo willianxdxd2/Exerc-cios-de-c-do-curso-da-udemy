@@ -1,0 +1,14 @@
+C:\Users\willi\OneDrive\Área de Trabalho\c#\crescente\crescente\bin\Debug\net8.0\crescente.exe
+C:\Users\willi\OneDrive\Área de Trabalho\c#\crescente\crescente\bin\Debug\net8.0\crescente.deps.json
+C:\Users\willi\OneDrive\Área de Trabalho\c#\crescente\crescente\bin\Debug\net8.0\crescente.runtimeconfig.json
+C:\Users\willi\OneDrive\Área de Trabalho\c#\crescente\crescente\bin\Debug\net8.0\crescente.dll
+C:\Users\willi\OneDrive\Área de Trabalho\c#\crescente\crescente\bin\Debug\net8.0\crescente.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\c#\crescente\crescente\obj\Debug\net8.0\crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Área de Trabalho\c#\crescente\crescente\obj\Debug\net8.0\crescente.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Área de Trabalho\c#\crescente\crescente\obj\Debug\net8.0\crescente.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Área de Trabalho\c#\crescente\crescente\obj\Debug\net8.0\crescente.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Área de Trabalho\c#\crescente\crescente\obj\Debug\net8.0\crescente.dll
+C:\Users\willi\OneDrive\Área de Trabalho\c#\crescente\crescente\obj\Debug\net8.0\refint\crescente.dll
+C:\Users\willi\OneDrive\Área de Trabalho\c#\crescente\crescente\obj\Debug\net8.0\crescente.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\c#\crescente\crescente\obj\Debug\net8.0\crescente.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Área de Trabalho\c#\crescente\crescente\obj\Debug\net8.0\ref\crescente.dll
